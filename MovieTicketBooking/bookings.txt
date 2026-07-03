@@ -130,3 +130,27 @@ AMOUNT PAID  : ₹1230
 PAYMENT VIA  : PhonePe (yash@okaxis)
 ==========================================
 
+==========================================
+BOOKING ID   : CPX527807
+DATE & TIME  : 03-Jul-2026 18:05
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : E8, E9
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (yash@axi)
+==========================================
+
+==========================================
+BOOKING ID   : CPX883927
+DATE & TIME  : 03-Jul-2026 18:06
+CUSTOMER     : admin
+MOVIE        : Singham Again
+CITY         : Chennai
+LANGUAGE     : Hindi
+SEATS        : G9, G10
+AMOUNT PAID  : ₹430
+PAYMENT VIA  : PhonePe (admin@axi)
+==========================================
+
