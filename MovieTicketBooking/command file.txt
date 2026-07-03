@@ -1,4 +1,0 @@
-cd .\MovieTicketBooking\
-
-java -cp out\classes moviebooking.Main                                                                                                                                                                              
-
