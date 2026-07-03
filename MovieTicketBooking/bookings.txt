@@ -1,0 +1,132 @@
+==========================================
+BOOKING ID   : CPX609221
+DATE & TIME  : 14-Apr-2026 10:30
+CUSTOMER     : admin
+MOVIE        : Kalki 2898 AD
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : D5, D6
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : Google Pay (adityajagtap1234@oksbi)
+==========================================
+
+==========================================
+BOOKING ID   : CPX225408
+DATE & TIME  : 14-Apr-2026 10:42
+CUSTOMER     : admin
+MOVIE        : Kalki 2898 AD
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : D5, D6
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (aditya@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX251456
+DATE & TIME  : 14-Apr-2026 12:37
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : E7, E8
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX468124
+DATE & TIME  : 14-Apr-2026 15:57
+CUSTOMER     : admin
+MOVIE        : Singham Again
+CITY         : Bangalore
+LANGUAGE     : Kannada
+SEATS        : A12, J9
+AMOUNT PAID  : ₹730
+PAYMENT VIA  : FamPay (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX931329
+DATE & TIME  : 14-Apr-2026 19:53
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : F10, F11
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX225780
+DATE & TIME  : 15-Apr-2026 06:12
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Mumbai
+LANGUAGE     : Hindi
+SEATS        : B6, B7, B8, B9
+AMOUNT PAID  : ₹2030
+PAYMENT VIA  : Google Pay (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX407931
+DATE & TIME  : 15-Apr-2026 13:04
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : F6, F7
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX480148
+DATE & TIME  : 15-Apr-2026 16:38
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Pune
+LANGUAGE     : Hindi
+SEATS        : F6, F7
+AMOUNT PAID  : ₹630
+PAYMENT VIA  : PhonePe (yash@okaxis)
+==========================================
+
+==========================================
+BOOKING ID   : CPX538612
+DATE & TIME  : 17-Apr-2026 12:29
+CUSTOMER     : admin
+MOVIE        : Stree 2
+CITY         : Mumbai
+LANGUAGE     : Hindi
+SEATS        : G2, G3
+AMOUNT PAID  : ₹430
+PAYMENT VIA  : PhonePe (sayali@1234)
+==========================================
+
+==========================================
+BOOKING ID   : CPX936598
+DATE & TIME  : 17-Apr-2026 14:28
+CUSTOMER     : admin
+MOVIE        : Singham Again
+CITY         : Pune
+LANGUAGE     : Telugu
+SEATS        : A6, G1, G4, G7, G10
+AMOUNT PAID  : ₹1330
+PAYMENT VIA  : PhonePe (aditya@3414)
+==========================================
+
+==========================================
+BOOKING ID   : CPX412911
+DATE & TIME  : 17-Apr-2026 14:44
+CUSTOMER     : admin
+MOVIE        : Pushpa 2
+CITY         : Pune
+LANGUAGE     : Tamil
+SEATS        : G6, G7, G8, G9, G10, G11
+AMOUNT PAID  : ₹1230
+PAYMENT VIA  : PhonePe (yash@okaxis)
+==========================================
+
