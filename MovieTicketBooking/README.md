@@ -1,4 +1,13 @@
-## 📸 Screenshots
+# 🎬 CinePlex Pro
+
+🚀 Java Movie Ticket Booking System  
+💻 Built using Java Swing + OOP  
+
+---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)## 📸 Screenshots
 
 ### Login Screen
 ![Login](assets/login.png)
